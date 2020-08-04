@@ -1,16 +1,9 @@
 # timeoutapp
 
-A new Flutter application.
+A fluuter application which opens the display settings, is extremely simple, using a library.
 
-## Getting Started
+## More things could be included such as:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- More can be done : https://stackoverflow.com/questions/51846104/flutter-deactivate-screen-timeout
+- https://developer.android.com/reference/android/app/admin/DevicePolicyManager#setMaximumTimeToLock(android.content.ComponentName,%20long)
+- Open Directly from Icon, how?
